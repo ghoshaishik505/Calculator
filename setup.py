@@ -4,10 +4,10 @@ from setuptools import setup, find_packages
 
 setup(
     name='Calculator',
-    version='0.2',
+    version='0.3',
     author = 'Aishik Ghosh',
     packages=find_packages(),
-    install_requires=[ 'pandas==1.4.4'
+    install_requires=[ 'pandas'
         # Add any dependencies here if needed
     ],
 )
