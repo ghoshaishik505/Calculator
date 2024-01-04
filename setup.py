@@ -3,7 +3,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='addition-library',
+    name='Calculator',
     version='0.1',
     author = 'Aishik Ghosh',
     packages=find_packages(),
